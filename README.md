@@ -1,6 +1,4 @@
 # 試験用VyOSのVirtualBox環境めんどくさい方向けVagrantで楽に構築する方法
-
-# 試験用VyOSのVirtualBox環境構築めんどくさい方向け
 その問題Vagrantで解決できます。
 
 ## 環境
